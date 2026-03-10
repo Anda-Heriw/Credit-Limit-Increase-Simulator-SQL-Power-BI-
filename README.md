@@ -72,7 +72,7 @@ The design prevents accidental filtering and keeps metrics stable during interac
 SQL Server – Data modelling, business logic, risk rules
 Power BI Desktop – Measures, What If parameter, dashboarding
 
-  [credit limit simulator overview ](images/dashboard_overview.png)
+  ![credit limit simulator overview ](images/dashboard_overview.png)
 
                   *Key Insights*
 Eligibility remains stable while exposure changes dynamically
